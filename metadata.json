@@ -1,0 +1,6 @@
+{
+  "name": "AuraFlow",
+  "description": "Sleek, motion-driven habit tracker, focus timer, and daily mood companion with fluid animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
